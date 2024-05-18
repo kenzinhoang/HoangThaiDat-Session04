@@ -1,0 +1,68 @@
+.head1 {
+    background-color: antiquewhite;
+    color: rgb(0, 121, 186);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+.yellow-text {
+    color: rgb(247, 170, 56);
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.name1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.blue {
+    color: rgb(0, 121, 186);
+    text-decoration: underline;
+}
+
+.title {
+    background-color: antiquewhite;
+
+}
+
+.bottom {
+    font-style: italic;
+}
+
+.page {
+    background-color: rgb(186, 186, 186);
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.image-page {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.top-page {
+    text-align: center;
+
+}
+
+.button {
+    background-color: rgb(255, 198, 154);
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+}

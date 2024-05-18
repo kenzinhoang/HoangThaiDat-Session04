@@ -1,0 +1,14 @@
+.under {
+    text-decoration: underline;
+    color: #65a4db;
+}
+
+div {
+    background-color: rgb(250, 239, 217);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
